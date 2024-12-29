@@ -3,7 +3,7 @@ Streamlit ChatBot app built with `langgraph workflow` :
 - Workflow : `LangGraph` Workflow with memory and session management
 - Inference & LLM : `Groq Inference`, Model : `llama3.2 3b`
 
-
+# App Screenshot
 ```python
 pip install -r requirements.txt
 streamlit run main.py
@@ -24,4 +24,4 @@ docker run -p 8501:8501 \
 # 📊 LangGraph WorkFlow
 LangGraph Work-Flow
 
-![Workflow](wkf.JPG)
+![Workflow](wkf.png)
