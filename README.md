@@ -1,5 +1,5 @@
-# 🤖 streamlit_langgraph_chatbot
-Streamlit ChatBot app built with `langgraph workflow` :
+# 🤖 streamlit langgraph chatbot
+Streamlit Agentic ChatBot app built with `langgraph workflow` :
 - Workflow : `LangGraph` Workflow with memory and session management
 - Inference & LLM : `Groq Inference`, Model : `llama3.2 3b`
 
